@@ -4,9 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/factor.xml" value="0.233" />
+        <entry key="app/src/main/res/drawable/ic_baseline_airline_seat_recline_normal_24.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_baseline_transfer_within_a_station_24.xml" value="0.198" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/persistent_bottom_sheet.xml" value="0.3390625" />
         <entry key="app/src/main/res/layout/test.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/test2.xml" value="0.24166666666666667" />
       </map>
     </option>
   </component>

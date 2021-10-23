@@ -6,6 +6,8 @@ import android.os.Handler
 import android.view.View
 import android.widget.FrameLayout
 import android.widget.LinearLayout
+import android.widget.SeekBar
+import androidx.core.content.ContextCompat
 import com.example.moscowtransporthackathon.lib.RulerUnit
 import com.example.moscowtransporthackathon.lib.RulerView
 import com.google.android.material.bottomsheet.BottomSheetBehavior
@@ -17,6 +19,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var linearLayoutBottomSheet : LinearLayout
     private lateinit var bottomSheetBehavior: BottomSheetBehavior<LinearLayout>
     private lateinit var persistentBtn : MaterialButton
+    private lateinit var seekBar : SeekBar
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -63,7 +66,26 @@ class MainActivity : AppCompatActivity() {
         persistentBtn.setOnClickListener {
             expandCollapseSheet()
         }
+        seekBar = findViewById(R.id.seekBar)
+        seekBar.max = 100
+        seekBar.setOnSeekBarChangeListener(object : SeekBar.OnSeekBarChangeListener{
+            override fun onProgressChanged(seekBar: SeekBar?, progress: Int, fromUser: Boolean) {
+                if (progress <50){
+                    seekBar?.thumb = ContextCompat.getDrawable(this@MainActivity, R.drawable.ic_baseline_airline_seat_recline_normal_24)
+                }else {
+                    seekBar?.thumb = ContextCompat.getDrawable(this@MainActivity, R.drawable.ic_baseline_transfer_within_a_station_24)
+                }
+            }
 
+            override fun onStartTrackingTouch(seekBar: SeekBar?) {
+                //TODO("Not yet implemented")
+            }
+
+            override fun onStopTrackingTouch(seekBar: SeekBar?) {
+                //TODO("Not yet implemented")
+            }
+
+        })
 
 
 //        animationHandler.post(object : Runnable {
