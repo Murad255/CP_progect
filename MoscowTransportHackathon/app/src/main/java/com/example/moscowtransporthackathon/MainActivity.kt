@@ -77,10 +77,10 @@ class MainActivity : AppCompatActivity() {
     fun expandCollapseSheet() {
         if (bottomSheetBehavior.state != BottomSheetBehavior.STATE_EXPANDED) {
             bottomSheetBehavior.state = BottomSheetBehavior.STATE_EXPANDED
-            persistentBtn.text = "Close Bottom Sheet"
+            //persistentBtn.text = "Close Bottom Sheet"
         } else {
             bottomSheetBehavior.state = BottomSheetBehavior.STATE_COLLAPSED
-            persistentBtn.text = "Show Bottom Sheet"
+            //persistentBtn.text = "Show Bottom Sheet"
         }
 
     }
