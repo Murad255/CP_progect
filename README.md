@@ -3,7 +3,11 @@
 
 
 
-<img src="https://github.com/Murad255/CP_progect/blob/main/title2.png" width="500" height="400" />
+<img src="https://github.com/Murad255/CP_progect/blob/main/title2.png"  />
+
+<p align="center">
+<img src="https://github.com/Murad255/CP_progect/blob/main/title2.png">
+</p>
 
 Ссылки на прототипы дизайна:
 
