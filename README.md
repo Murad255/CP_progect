@@ -3,6 +3,10 @@
 <img src="https://github.com/Murad255/CP_progect/blob/main/title3.png">
 </p>
 
+<p align="center">
+<img src="https://github.com/Murad255/CP_progect/blob/main/anim2.gif" width="300" height="500">
+</p>
+
 Ссылки на прототипы дизайна (более наглядно):
 
 🔥  [Весь дизайн и айндентика (Figma)](https://www.figma.com/file/6wraGpr5ospl8eo7SVd8bZ/Untitled?node-id=0%3A1)
@@ -15,9 +19,6 @@
 
 <img src="https://github.com/Murad255/CP_progect/blob/main/scrn.gif" width="200" height="400" />
 
-<p align="center">
-<img src="https://github.com/Murad255/CP_progect/blob/main/anim4.gif" width="300">
-</p>
 
 <p align="center">
 <img src="https://github.com/Murad255/CP_progect/blob/main/anim2.gif" width="300" height="500">
