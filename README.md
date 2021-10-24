@@ -15,9 +15,13 @@
 
 <img src="https://github.com/Murad255/CP_progect/blob/main/scrn.gif" width="200" height="400" />
 
+<p align="center">
+<img src="https://github.com/Murad255/CP_progect/blob/main/anim4.gif" width="300">
+</p>
 
-<img src="https://github.com/Murad255/CP_progect/blob/main/design_anim.gif" width="500" height="400" />
-
+<p align="center">
+<img src="https://github.com/Murad255/CP_progect/blob/main/anim2.gif" width="300" height="500">
+</p>
 Инструкции по запуску:
 
 ✅  **Android приложение** (MoscowTransportHackathon) - запускаем через Android Studio
