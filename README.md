@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/Murad255/CP_progect/blob/main/title2.png">
+<img src="https://github.com/Murad255/CP_progect/blob/main/title3.png">
 </p>
 
 Ссылки на прототипы дизайна (более наглядно):
@@ -9,7 +9,7 @@
 
 🔥  [Кликабельный дизайн (Figma)](https://www.figma.com/proto/6wraGpr5ospl8eo7SVd8bZ/Untitled?page-id=0%3A1&node-id=57%3A3407&viewport=241%2C48%2C0.3&scaling=scale-down&starting-point-node-id=56%3A147&show-proto-sidebar=1 )
 
-
+🔥  [Весь дизайн и айндентика в отдельном файле (Figma)](https://github.com/Murad255/CP_progect/blob/main/prototype_figma.fig)
 
 Наброски дизайна в коде:
 
